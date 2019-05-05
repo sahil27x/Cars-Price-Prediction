@@ -11,4 +11,5 @@ A predictive model to find out the estimated price of used cars.
 5. Evaluting the Model
 
 - Demo
+![alt text](https://user-images.githubusercontent.com/26934447/57191650-92554880-6f45-11e9-8266-d8ae4a3e98f6.gif)
 
