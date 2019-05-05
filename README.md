@@ -10,6 +10,7 @@ A predictive model to find out the estimated price of used cars.
 4. Data Modeling
 5. Evaluting the Model
 
-- Demo
+- Link- https://sa-carprice.herokuapp.com
+
 ![alt text](https://user-images.githubusercontent.com/26934447/57191650-92554880-6f45-11e9-8266-d8ae4a3e98f6.gif)
 
